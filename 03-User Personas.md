@@ -12,7 +12,7 @@ Frustrations
 .Feels embarrassed asking family to handle her finances
 .Worries about privacy when someone else reads her balance or transactions
 
-Tech comfort, Low-to-medium — uses WhatsApp daily but avoids apps with complex menus
+Tech comfort, Low to medium ,uses WhatsApp daily but avoids apps with complex menus
 
 Quote "I want to know my own money, in my own language."
 
@@ -28,24 +28,24 @@ Frustrations
 .English only interfaces slow him down and cause mistakes
 .Distrust of apps he doesn't fully understand
 
-Tech comfort, Medium — uses a smartphone for calls and basic apps
+Tech comfort, Medium ,  uses a smartphone for calls and basic apps
 
 Quote "If I don't understand what the button says, I won't press it."
 
 
 
-Persona 3: Thandiwe, 52 — Visually impaired
+Persona 3: Thandiwe, 52 , Visually impaired
 
-Background, Works part-time from home, lost most of her eyesight to glaucoma five years ago. Depends on a neighbor to help her use her current banking app.
+Background, Works part time from home, lost most of her eyesight to glaucoma five years ago. Depends on a neighbor to help her use her current banking app.
 
 GOALS
 .Complete banking tasks (check balance, pay bills, transfer money) fully independently
 .Trust that voice prompts are accurate and secure
 
   Frustrations
-.Existing apps have no screen-reader or voice support
+.Existing apps have no screen reader or voice support
 .Sharing financial details with a third party feels unsafe and undignified
 
-Tech comfort, Medium — uses voice assistants (Siri, Google Assistant) daily, so voice-first design feels natural to her
+Tech comfort, Medium , uses voice assistants (Siri, Google Assistant) daily, so voice-first design feels natural to her
 
 Quote "I don't need someone to see for me , I need an app that speaks to me."
