@@ -1,6 +1,6 @@
 THESE ARE THE DIFFERENT USER PERSONAS.
 
-Person 1: Nomvula, 74 — Elderly, isiXhosa speaker
+Person 1: Nomvula, 74 , Elderly, isiXhosa speaker
 
 Background: Retired teacher living in a rural Eastern Cape community. Has a smartphone but relies on her grandson to translate and operate her banking app.
 Goals
@@ -16,7 +16,7 @@ Tech comfort, Low-to-medium — uses WhatsApp daily but avoids apps with complex
 
 Quote "I want to know my own money, in my own language."
 
- Person 2  : Johan, 68 — Elderly, Afrikaans speaker
+ Person 2  : Johan, 68 , Elderly, Afrikaans speaker
 
 Background: Retired farmer, lives with his wife outside a small town. Comfortable with basic technology but not fluent in English.
 
