@@ -1,6 +1,6 @@
- Ndinani Pay — Business Analyst Case Study
+ Ndinani Pay , Business Analyst Case Study
 
-Ndinani Pay is a voice-guided fintech platform designed for elderly and visually impaired users who are excluded from mainstream banking apps due to language barriers and inaccessible interfaces. This repository documents the business analysis work behind the project — from problem definition through to requirements tracking and impact evaluation.
+Ndinani Pay is a voice-guided fintech platform designed for elderly and visually impaired users who are excluded from mainstream banking apps due to language barriers and inaccessible interfaces. This repository documents the business analysis work behind the project  from problem definition through to requirements tracking and impact evaluation.
 
 ## My Role
 
